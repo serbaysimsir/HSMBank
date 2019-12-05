@@ -13,7 +13,8 @@ müşteri olabilmektedir.
 Bir müşterinin birden fazla hesabı olabilir. <br/>
 Her hesabı için ayrı ayrı hesap numarası verilmesi gerekir. Aynı hesap numarası birden
 fazla müşteriye verilmemelidir. <br/>
-3. Para Çekme; Müşteri, para çekecekse ilgili bilgiler girilip çekilen tutar kadar bakiyesinden
+## 3. Para Çekme; <br/>
+Müşteri, para çekecekse ilgili bilgiler girilip çekilen tutar kadar bakiyesinden
 bakiyesi yetmiyorsa ek hesabını kullanarak para çekme işlemi gerçekleşecektir. Günlük
 maksimum para çekme limiti 750 tl dir. Daha fazla para çekilmek istendiği takdirde işlem
 gerçekleşmeyecektir. <br/>
@@ -27,7 +28,7 @@ gönderdiği kişinin bakiyesi artacaktır. Ayrıca Ticari Müşterilerden haval
 Bireysel Müşterilerden gönderilecek tutarın %2 oranında havale ücreti kesilmektedir.
 ## 6. Banka Gelir-Gider Raporu; <br/>
 Bankanın gelir-giderleri(bankadan giden, gelen ve bankada
-bulunan toplam para miktarı vb.) hesaplanıp görüntülenecektir. Raporlama için grid bileşeni
+bulunan toplam para miktarı vb.) hesaplanıp görüntülenecektir. <br/> Raporlama için grid bileşeni
 kullanmanız beklenmektedir.
 ## 7. Hesap Özeti; <br/>
 Seçilen bir hesap için belirtilen tarih aralığında hesap özeti görüntülenecektir.
@@ -37,7 +38,7 @@ geldiyse kimden geldiği ve miktarı gibi bilgiler ve bu işlemlerin tarihleri g
 olması gerekmektedir.
 ## Notlar:
 a. Dosya veya veritabanı işlemleri gerçekleştirilmeyecek, uygulama bellekte
-çalışacaktır (Array, List).
-b. Mutlaka abstract sınıf ve çok biçimlilik özellikleri desteklenmelidir.
+çalışacaktır (Array, List).<br/>
+b. Mutlaka abstract sınıf ve çok biçimlilik özellikleri desteklenmelidir.<br/>
 c. Uygulamanızın bir ana menüsü olmalıdır. Ana menüyü MDI Child form
 mantığında gerçekleştirebilirsiniz.
