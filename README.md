@@ -34,7 +34,8 @@ kullanmanız beklenmektedir.
 Seçilen bir hesap için belirtilen tarih aralığında hesap özeti görüntülenecektir.
 Çekilen, yatırılan, havale yapılmışsa kime yapıldığı ve miktarı, başka bir hesaptan havale para
 geldiyse kimden geldiği ve miktarı gibi bilgiler ve bu işlemlerin tarihleri görüntülenmelidir.
-8. Hesap Kapama; İstenilen hesap kapatılabilecektir. Kapama işlemi için hesap bakiyesi 0
+## 8. Hesap Kapama; <br/> 
+İstenilen hesap kapatılabilecektir. Kapama işlemi için hesap bakiyesi 0
 olması gerekmektedir.
 ## Notlar:
 a. Dosya veya veritabanı işlemleri gerçekleştirilmeyecek, uygulama bellekte
